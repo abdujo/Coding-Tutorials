@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    height: 200px;
+    border: 4px solid #a10c0c;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+ 
+.box-wrapper {
+    width: 180px;
+    height: 180px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+
+
+}
+
+.small-box {
+    width: 50px;
+    height: 50px;
+    border: 2px solid #0ca10c;}
+    
+
+.box {
+    width: 80px;
+    height: 80px;
+    border: 2px solid #a10c0c;
+}
